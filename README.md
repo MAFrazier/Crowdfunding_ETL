@@ -5,7 +5,7 @@
 ## Once data is transformed, four CSV files are created. The CSV file data is used to create an ERD and a table schema. Finally, the CSV file data is uploaded into a Postgres database.
 
 ## Subsections:
-   ### •	Create the Category and Subcategory DataFrames
-   ### •	Create the Campaign DataFrame
-   ### •	Create the Contacts DataFrame
-   ### •	Create the Crowdfunding Database
+   ### •	Category and Subcategory DataFrames created
+   ### •	Campaign DataFrame created
+   ### •	Contacts DataFrame created
+   ### •	Crowdfunding Database created
